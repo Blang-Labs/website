@@ -20,7 +20,7 @@
 
         <ul class="pure-menu-list">
             <li class="pure-menu-item pure-menu-selected"><a href="/" class="pure-menu-link">Home</a></li>
-            <li class="pure-menu-item"><a href="products.php" class="pure-menu-link">Our Products</a></li>
+            <li class="pure-menu-item"><a href="products.php" class="pure-menu-link">Products</a></li>
 			<li class="pure-menu-item"><a href="#indevelopment" class="pure-menu-link">APIs</a></li>
         </ul>
     </div>
